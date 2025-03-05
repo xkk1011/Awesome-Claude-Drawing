@@ -9,8 +9,10 @@
 
 📁 prompts目录包含以下提示词文件：
 - [drawio_prompts.md](./prompts/drawio_prompts.md) - Draw.io流程图制作提示词
+- [timeline_prompts.md](./prompts/timeline_prompts.md) - 时间轴图表提示词
 
 📁 prompts directory contains:
 - [drawio_prompts.md](./prompts/drawio_prompts.md) - Draw.io flowchart prompts
+- [timeline_prompts.md](./prompts/timeline_prompts.md) - Timeline chart prompts
 
 
